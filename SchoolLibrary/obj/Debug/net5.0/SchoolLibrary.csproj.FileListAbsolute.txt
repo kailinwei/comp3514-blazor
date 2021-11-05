@@ -1,0 +1,12 @@
+/Users/kailinwei/Downloads/School/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.deps.json
+/Users/kailinwei/Downloads/School/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.dll
+/Users/kailinwei/Downloads/School/SchoolLibrary/bin/Debug/net5.0/ref/SchoolLibrary.dll
+/Users/kailinwei/Downloads/School/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.pdb
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.csproj.AssemblyReference.cache
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.AssemblyInfo.cs
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.csproj.CoreCompileInputs.cache
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.dll
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/ref/SchoolLibrary.dll
+/Users/kailinwei/Downloads/School/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.pdb

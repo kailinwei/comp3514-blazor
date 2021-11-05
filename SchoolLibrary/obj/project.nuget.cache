@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpuLOXequL6VuQpq6G+a9QylqAEJKobCHu+24HttmLoabAHodHlAsd48h3I5T32QlXcuEetR6ow4q3kqYDk1gw==",
+  "success": true,
+  "projectFilePath": "/Users/kailinwei/Downloads/School/SchoolLibrary/SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/kailinwei/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorClient/Pages/Page2.razor">
+    <Files>
+      <File FileName="BlazorClient/Pages/Students.razor" Line="149" Column="20" />
+      <File FileName="BlazorClient/Pages/Page1.razor" Line="5" Column="17" />
+      <File FileName="BlazorClient/Pages/Index.razor" Line="11" Column="1" />
+      <File FileName="BlazorClient/Pages/Page2.razor" Line="18" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True" selected="True">
+            <Node name="BlazorClient" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlazorClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SchoolAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{604AD301-0AB1-4BCA-91EE-FBFA82AAB92D}" ItemName="BlazorClient" ConfigurationId="Default" />
+        <StartupItem ItemId="{775D4EB4-F9A2-4AA2-B65D-3F9443CC8CC4}" ItemName="SchoolAPI" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
