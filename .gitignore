@@ -1,6 +1,2 @@
-BlazorClient/bin
-SchoolAPI/bin
-School/bin
-BlazorClient/obj
-SchoolAPI/obj
-School/obj
+obj/
+bin/
